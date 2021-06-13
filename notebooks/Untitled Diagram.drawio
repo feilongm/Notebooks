@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T12:34:39.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="HaDgFm_XwuMpxADXSXsM" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T13:04:10.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="47iKe8qtfOBSeSJAEUph" version="14.7.7" type="github">
   <diagram id="EDMMwGdZxT6azAt_b9_0" name="Page-1">
     <mxGraphModel dx="1773" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
             <mxPoint x="919.4199999999998" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_rad&lt;br&gt;mc3d&lt;br&gt;&lt;/b&gt;extracted &lt;b&gt;example&lt;/b&gt; information of HD163296 to simulate molecular observation with RADMC3D&lt;br&gt;&amp;amp; &lt;b&gt;example&lt;/b&gt; input files and output files generated during RADMC3D molecular line observation simulation &amp;amp; &lt;b&gt;example&lt;/b&gt; fits image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_70bpHaRCv06BVz45tBa-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_rad&lt;br&gt;mc3d&lt;br&gt;&lt;/b&gt;extracted &lt;b&gt;example&lt;/b&gt; information of HD163296 to simulate molecular observation with RADMC3D&lt;br&gt;&amp;amp; &lt;b&gt;example&lt;/b&gt; input files and output files generated during RADMC3D molecular line observation simulation &amp;amp; &lt;b&gt;example&lt;/b&gt; FITS image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="697" y="560" width="130" height="440" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-75" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -148,7 +148,7 @@
             <mxPoint x="1089.76" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-77" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;co&lt;/b&gt;&lt;br&gt;input and&lt;b&gt; &lt;/b&gt;output files generated during RADMC3D CO molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_70bpHaRCv06BVz45tBa-77" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;co&lt;/b&gt;&lt;br&gt;input and&lt;b&gt; &lt;/b&gt;output files generated during RADMC3D CO molecular line observation simulation &amp;amp; structure file &amp;amp; FITS image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1030.59" y="560" width="120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-78" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -163,7 +163,7 @@
             <mxPoint x="1260.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-80" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;hcn&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D HCN molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_70bpHaRCv06BVz45tBa-80" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;hcn&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D HCN molecular line observation simulation &amp;amp; structure file &amp;amp; FITS image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1200.59" y="560" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-81" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -178,7 +178,7 @@
             <mxPoint x="1430.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_70bpHaRCv06BVz45tBa-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation &amp;amp; structure file &amp;amp; FITS image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1370.59" y="560" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-90" value="" style="endArrow=none;html=1;" parent="1" edge="1">

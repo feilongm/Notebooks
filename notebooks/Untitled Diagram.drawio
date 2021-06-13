@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T10:59:39.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="P3uopOEg7f_jiJdbchFz" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T11:49:03.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="G4_CbIAI6X1-Yi8mZRRu" version="14.7.7" type="github">
   <diagram id="EDMMwGdZxT6azAt_b9_0" name="Page-1">
-    <mxGraphModel dx="1940" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,12 +48,12 @@
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-27" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750.5" y="170" as="sourcePoint" />
-            <mxPoint x="750" y="120" as="targetPoint" />
+            <mxPoint x="920.5" y="170" as="sourcePoint" />
+            <mxPoint x="920" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;shellstrop1&lt;/b&gt;&lt;br&gt;local directory on shellstrop holding RADMC3D results&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="170" width="120" height="130" as="geometry" />
+          <mxGeometry x="860.5899999999999" y="170" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-29" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,150 +78,150 @@
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-45" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749.7900000000001" y="350" as="sourcePoint" />
-            <mxPoint x="749.2900000000001" y="300" as="targetPoint" />
+            <mxPoint x="920.3800000000001" y="350" as="sourcePoint" />
+            <mxPoint x="919.8800000000001" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;feilongm&lt;/b&gt;&lt;br&gt;directory holding image cubes I made&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="350" width="120" height="110" as="geometry" />
+          <mxGeometry x="860.5899999999999" y="350" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;radmc3d-2.0-master&lt;/b&gt;&lt;br&gt;RADMC3D folder&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="689.42" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="860.01" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-50" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Python&lt;/b&gt;&lt;br&gt;Python package&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="690" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="860.5899999999999" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-51" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749.91" y="800" as="sourcePoint" />
-            <mxPoint x="749.41" y="750" as="targetPoint" />
+            <mxPoint x="920.5" y="800" as="sourcePoint" />
+            <mxPoint x="920" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;radmc3dPy&lt;/b&gt;&lt;br&gt;RADMC3DPy folder&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="689.42" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="860.01" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-53" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749" y="1040" as="sourcePoint" />
-            <mxPoint x="749.41" y="860" as="targetPoint" />
+            <mxPoint x="919.5899999999999" y="1040" as="sourcePoint" />
+            <mxPoint x="920" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;radmc3dPy&lt;/b&gt;&lt;br&gt;source code of RADMC3DPy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1090" width="120" height="90" as="geometry" />
+          <mxGeometry x="1030.59" y="1090" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-56" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="510" as="sourcePoint" />
-            <mxPoint x="920" y="510" as="targetPoint" />
+            <mxPoint x="920.5899999999999" y="510" as="sourcePoint" />
+            <mxPoint x="1090.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="510" as="sourcePoint" />
-            <mxPoint x="754" y="510" as="targetPoint" />
+            <mxPoint x="760.5899999999999" y="510" as="sourcePoint" />
+            <mxPoint x="924.5899999999999" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-58" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590.5" y="560" as="sourcePoint" />
-            <mxPoint x="590" y="510" as="targetPoint" />
+            <mxPoint x="761.0899999999999" y="560" as="sourcePoint" />
+            <mxPoint x="760.5899999999999" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-59" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750.25" y="560" as="sourcePoint" />
-            <mxPoint x="749.75" y="510" as="targetPoint" />
+            <mxPoint x="920.8399999999999" y="560" as="sourcePoint" />
+            <mxPoint x="920.3399999999999" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-60" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749.3299999999999" y="690" as="sourcePoint" />
-            <mxPoint x="748.8299999999999" y="640" as="targetPoint" />
+            <mxPoint x="919.9199999999998" y="690" as="sourcePoint" />
+            <mxPoint x="919.4199999999998" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-62" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_rad&lt;br&gt;mc3d&lt;br&gt;&lt;/b&gt;extracted &lt;b&gt;example&lt;/b&gt; information of HD163296 to simulate molecular observation with RADMC3D&lt;br&gt;&amp;amp; &lt;b&gt;example&lt;/b&gt; input files and output files generated during RADMC3D molecular line observation simulation &amp;amp; &lt;b&gt;example&lt;/b&gt; fits image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="560" width="130" height="440" as="geometry" />
+          <mxGeometry x="697" y="560" width="130" height="440" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-65" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749.42" y="1040" as="sourcePoint" />
-            <mxPoint x="919.42" y="1040" as="targetPoint" />
+            <mxPoint x="920.01" y="1040" as="sourcePoint" />
+            <mxPoint x="1090.01" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-66" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="579.42" y="1040" as="sourcePoint" />
-            <mxPoint x="749.42" y="1040" as="targetPoint" />
+            <mxPoint x="750.01" y="1040" as="sourcePoint" />
+            <mxPoint x="920.01" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-68" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="579.91" y="1090" as="sourcePoint" />
-            <mxPoint x="579.41" y="1040" as="targetPoint" />
+            <mxPoint x="750.5" y="1090" as="sourcePoint" />
+            <mxPoint x="750" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-69" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="919.91" y="1090" as="sourcePoint" />
-            <mxPoint x="919.41" y="1040" as="targetPoint" />
+            <mxPoint x="1090.5" y="1090" as="sourcePoint" />
+            <mxPoint x="1090" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-70" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Python_examp&lt;br&gt;les&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1090" width="130" height="60" as="geometry" />
+          <mxGeometry x="690" y="1090" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-71" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="579.91" y="1200" as="sourcePoint" />
-            <mxPoint x="579.41" y="1150" as="targetPoint" />
+            <mxPoint x="750.5" y="1200" as="sourcePoint" />
+            <mxPoint x="750" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-72" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;datafiles&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1200" width="130" height="60" as="geometry" />
+          <mxGeometry x="690" y="1200" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-75" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750.16" y="510" as="sourcePoint" />
-            <mxPoint x="749.6600000000004" y="460" as="targetPoint" />
+            <mxPoint x="920.75" y="510" as="sourcePoint" />
+            <mxPoint x="920.2500000000005" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-76" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="919.6700000000001" y="560" as="sourcePoint" />
-            <mxPoint x="919.1700000000001" y="510" as="targetPoint" />
+            <mxPoint x="1090.26" y="560" as="sourcePoint" />
+            <mxPoint x="1089.76" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-77" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;co&lt;/b&gt;&lt;br&gt;input and&lt;b&gt; &lt;/b&gt;output files generated during RADMC3D CO molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="560" width="120" height="260" as="geometry" />
+          <mxGeometry x="1030.59" y="560" width="120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-78" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="510" as="sourcePoint" />
-            <mxPoint x="1090" y="510" as="targetPoint" />
+            <mxPoint x="1090.59" y="510" as="sourcePoint" />
+            <mxPoint x="1260.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-79" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090.5" y="560" as="sourcePoint" />
-            <mxPoint x="1090" y="510" as="targetPoint" />
+            <mxPoint x="1261.09" y="560" as="sourcePoint" />
+            <mxPoint x="1260.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-80" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;hcn&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D HCN molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="560" width="120" height="280" as="geometry" />
+          <mxGeometry x="1200.59" y="560" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-81" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="510" as="sourcePoint" />
-            <mxPoint x="1260" y="510" as="targetPoint" />
+            <mxPoint x="1260.59" y="510" as="sourcePoint" />
+            <mxPoint x="1430.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-82" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260.5" y="560" as="sourcePoint" />
-            <mxPoint x="1260" y="510" as="targetPoint" />
+            <mxPoint x="1431.09" y="560" as="sourcePoint" />
+            <mxPoint x="1430.59" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation &amp;amp; structure file &amp;amp; fits image&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="560" width="120" height="280" as="geometry" />
+          <mxGeometry x="1370.59" y="560" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-90" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -229,11 +229,11 @@
             <mxPoint x="-70.7100000000002" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-91" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_M&lt;br&gt;APS&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="_70bpHaRCv06BVz45tBa-91" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_M&lt;br&gt;APS&lt;br&gt;&lt;/b&gt;ALMA image cubes of CO, 13CO, C18O, HCN, and C2H&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;diskprojection&lt;br&gt;test&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="570" width="120" height="80" as="geometry" />
+        <mxCell id="_70bpHaRCv06BVz45tBa-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;diskprojection&lt;br&gt;test&lt;br&gt;&lt;/b&gt;emission surface diagnostic plots made by two different versions of &lt;i&gt;get_emission_&lt;br&gt;surface&lt;/i&gt; function&amp;nbsp; &amp;amp; corresponding one-dimensionally smoothed and two-dimensionally smoothed diagnostic plots&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="130" height="410" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-94" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -375,6 +375,27 @@
             <mxPoint x="250" y="570" as="sourcePoint" />
             <mxPoint x="249.5" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_70bpHaRCv06BVz45tBa-124" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="120" as="sourcePoint" />
+            <mxPoint x="920" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_70bpHaRCv06BVz45tBa-125" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="520" as="sourcePoint" />
+            <mxPoint x="578" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_70bpHaRCv06BVz45tBa-126" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580.5" y="570" as="sourcePoint" />
+            <mxPoint x="580" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_70bpHaRCv06BVz45tBa-127" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;diskprojection&lt;br&gt;&lt;/b&gt;&lt;i&gt;diskprojection&lt;/i&gt; software&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="570" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

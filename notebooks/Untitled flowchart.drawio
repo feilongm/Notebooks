@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T13:50:36.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="zTeCXs9Z5iP6R06xQ4XY" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T13:54:36.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="kfMhGNZOH2hkshfw68HO" version="14.7.7" type="github">
   <diagram id="OHio_l4A3hphXdwyJgQA" name="Page-1">
-    <mxGraphModel dx="450" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
             <mxPoint x="600" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7kvAbgqLVaGYdPQzEYKD-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;enhanced get_emission_surface function (one dimensionally smoothing, smooth = 2)&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_CO_smooth2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_13CO_smooth2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C18O_smooth2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_HCN_smooth2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C2H_smooth2&lt;/b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;(diagnostic plots)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7kvAbgqLVaGYdPQzEYKD-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;get_emission_surface_v2 function (one dimensionally smoothing, smooth = 0.5)&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_CO_v2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_13CO_v2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C18O_v2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_HCN_v2&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C2H_v2&lt;/b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;(diagnostic plots)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-175" width="290" height="175" as="geometry" />
         </mxCell>
         <mxCell id="7kvAbgqLVaGYdPQzEYKD-43" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -153,6 +153,15 @@
             <mxPoint x="1219.58" y="100" as="sourcePoint" />
             <mxPoint x="1219" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7kvAbgqLVaGYdPQzEYKD-44" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7kvAbgqLVaGYdPQzEYKD-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1365" y="449.58000000000004" as="sourcePoint" />
+            <mxPoint x="1455" y="450.0799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7kvAbgqLVaGYdPQzEYKD-45" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;make_emissionsurface_gif function&lt;/b&gt;&lt;br&gt;making gifs to quickly scan over emission diagnostic plots&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;HD163296_CO.gif&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_13CO.gif&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C18O.gif&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_HCN.gif&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;HD163296_C2H.gif&lt;/b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;(gifs)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="340" width="290" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

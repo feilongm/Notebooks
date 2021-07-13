@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T12:18:36.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Z8Qxb4lzo5ymI2SYnkhd" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T13:05:19.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eArM3RKMY_TULD1Vcram" version="14.7.7" type="github">
   <diagram id="EDMMwGdZxT6azAt_b9_0" name="Page-1">
-    <mxGraphModel dx="1615" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2719" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
             <mxPoint x="1182.88" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;feilongm&lt;/b&gt;&lt;br&gt;directory holding image cubes I made&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_70bpHaRCv06BVz45tBa-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;feilongm&lt;/b&gt;&lt;br&gt;directory holding rac2d model simulations&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1123.59" y="350" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-48" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;radmc3d-2.0-master&lt;/b&gt;&lt;br&gt;RADMC3D folder&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-77" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;co&lt;/b&gt;&lt;br&gt;(May_10) input and&lt;b&gt; &lt;/b&gt;output files generated during RADMC3D CO molecular line observation simulation and structure file&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;&amp;nbsp;FITS image containing rest frequency value&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1293.59" y="560" width="120" height="380" as="geometry" />
+          <mxGeometry x="1460" y="560" width="120" height="380" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-78" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -164,12 +164,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-80" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;hcn&lt;br&gt;&lt;/b&gt;(May_10) input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D HCN molecular line observation simulation and structure file &lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;FITS image containing rest frequency value&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1463.59" y="560" width="120" height="400" as="geometry" />
+          <mxGeometry x="1630" y="560" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-81" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1523.59" y="510" as="sourcePoint" />
-            <mxPoint x="1850" y="510" as="targetPoint" />
+            <mxPoint x="2350" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-82" value="" style="endArrow=none;html=1;" parent="1" edge="1">
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;(May_10) input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation and structure file &lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;FITS image containing rest frequency value&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1633.59" y="560" width="120" height="400" as="geometry" />
+          <mxGeometry x="1790" y="560" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-90" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -190,8 +190,8 @@
         <mxCell id="_70bpHaRCv06BVz45tBa-91" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;HD163296_M&lt;br&gt;APS&lt;br&gt;&lt;/b&gt;real ALMA image cubes of CO, 13CO, C18O, HCN, and C2H (eg.&lt;br&gt;HD_163296_&lt;br&gt;13CO_220GHz&lt;br&gt;.robust_0.5.cl&lt;br&gt;ean.JvMcorr.&lt;br&gt;image.pbcor.&lt;br&gt;fits)&lt;br&gt;&amp;amp;&lt;br&gt;smoothed version of real ALMA image cubes (eg. HD_163296_&lt;br&gt;HCN_260GHz&lt;br&gt;_hf1.0.2arcsec.&lt;br&gt;clean.JvMcorr.&lt;br&gt;image.pbcor.&lt;br&gt;fits&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="180" y="580" width="130" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="_70bpHaRCv06BVz45tBa-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;diskprojection&lt;br&gt;test&lt;br&gt;&lt;/b&gt;&amp;nbsp;(May_13) emission surface diagnostic plots (smooth = 0.5 by default, one dimensionally smoothed) of real ALMA image cubes of CO, 13CO, C18O, HCN and C2H molecules (eg. HD163296_13CO)&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;one dimensionally smoothed (smooth = 2) diagnostic plots of real CO, 13CO, C18O, HCN, and C2H ALMA images (eg.&lt;br&gt;HD163296_13CO&lt;br&gt;_smooth2)&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;two dimensionally smoothed (smooth = 0.5) diagnostic plots of real ALMA images of all five molecules (eg. HD163296_13CO&lt;br&gt;_imsmooth)&amp;nbsp;&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;emission surface diagnostic plots (smooth = 0 and 3, one dimensionally smoothed&lt;br&gt;) of RADMC3D CO, HCN, and C2H models (eg. model_CO, model_CO_&lt;br&gt;smoothed)&lt;br&gt;&amp;amp;&lt;br&gt;(May_24)&lt;br&gt;emission surface diagnostic plots generated using get_emission_&lt;br&gt;surface_v2 function (eg.HD163296_&lt;br&gt;13CO_v2)&lt;br&gt;&amp;amp;&lt;br&gt;(June_7)&lt;br&gt;gifs of all of the diagnostic plots above&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="333.25" y="580" width="154.5" height="1450" as="geometry" />
+        <mxCell id="_70bpHaRCv06BVz45tBa-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;diskprojection&lt;br&gt;test&lt;br&gt;&lt;/b&gt;&amp;nbsp;(May_13) emission surface diagnostic plots (smooth = 0.5 by default, one dimensionally smoothed) of real ALMA image cubes of CO, 13CO, C18O, HCN and C2H molecules (eg. HD163296_13CO)&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;one dimensionally smoothed (smooth = 2) diagnostic plots of real CO, 13CO, C18O, HCN, and C2H ALMA images (eg.&lt;br&gt;HD163296_13CO&lt;br&gt;_smooth2)&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;two dimensionally smoothed (smooth = 0.5) diagnostic plots of real ALMA images of all five molecules (eg. HD163296_13CO&lt;br&gt;_imsmooth)&amp;nbsp;&lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;emission surface diagnostic plots (smooth = 0 and 3, one dimensionally smoothed&lt;br&gt;) of RADMC3D CO, HCN, and C2H models (eg. model_CO, model_CO_&lt;br&gt;smoothed)&lt;br&gt;&amp;amp;&lt;br&gt;(May_31)&lt;br&gt;emission surface diagnostic plots of all five real ALMA images generated using get_emission_&lt;br&gt;surface_v2 function (eg.HD163296_&lt;br&gt;13CO_v2)&lt;br&gt;&amp;amp;&lt;br&gt;(June_7)&lt;br&gt;gifs of all of the diagnostic plots above&lt;br&gt;&amp;amp;&lt;br&gt;(June_14)&lt;br&gt;emission surface diagnostic plots of all RADMC3D models generated using get_emission_&lt;br&gt;surface_v2 function (eg. model_&lt;br&gt;13CO_v2)&lt;br&gt;&amp;amp;&lt;br&gt;(July_6)&lt;br&gt;diagnostic plots of all five real ALMA observations generated using function get_emission_&lt;br&gt;surface_v3&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="333.25" y="580" width="154.5" height="1850" as="geometry" />
         </mxCell>
         <mxCell id="_70bpHaRCv06BVz45tBa-94" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -395,7 +395,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kTXJG2uc6nX6_-zsoFnQ-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;casatutorials&lt;br&gt;&lt;/b&gt;(May_24) example images generated when going through CASA guides&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="560" width="120" height="170" as="geometry" />
+          <mxGeometry x="1290" y="560" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020.5" y="560" as="sourcePoint" />
+            <mxPoint x="2020" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;(May_10) input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation and structure file &lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;FITS image containing rest frequency value&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="560" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-8" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2190.5" y="560" as="sourcePoint" />
+            <mxPoint x="2190" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;(May_10) input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation and structure file &lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;FITS image containing rest frequency value&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="560" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-10" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2349.5" y="560" as="sourcePoint" />
+            <mxPoint x="2349" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kTXJG2uc6nX6_-zsoFnQ-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;c2h&lt;br&gt;&lt;/b&gt;(May_10) input and&lt;b&gt;&amp;nbsp;&lt;/b&gt;output files generated during RADMC3D C2H molecular line observation simulation and structure file &lt;br&gt;&amp;amp;&lt;br&gt;(May_17)&lt;br&gt;FITS image containing rest frequency value&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="560" width="120" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
